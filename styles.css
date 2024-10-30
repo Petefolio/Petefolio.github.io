@@ -83,12 +83,3 @@ section.text-area th{
     font-size: 3em;
 }
 
-.credits {
-    background-color: pink;
-    margin: 100px auto;
-}
-.credittable {
-    width: 50%;
-    min-height: 250px;
-    background-color: aquamarine;
-}
