@@ -85,6 +85,7 @@ section.text-area th{
 
 .credits {
     background-color: pink;
+    margin: 100px auto;
 }
 .credittable {
     width: 50%;
