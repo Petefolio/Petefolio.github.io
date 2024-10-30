@@ -86,3 +86,8 @@ section.text-area th{
 .credits {
     background-color: pink;
 }
+.credits table {
+    width: 50%;
+    background-color: green;
+
+}
