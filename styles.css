@@ -82,14 +82,3 @@ section.text-area p{
 section.text-area th{
     font-size: 3em;
 }
-
-#credits {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#credits table{
-    text-align: center;
-    margin: 60px;
-}
