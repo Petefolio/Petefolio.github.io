@@ -91,4 +91,5 @@ section.text-area th{
     background-color: green;
     float: left;
     min-height: 250px;
+    text-align: center;
 }
