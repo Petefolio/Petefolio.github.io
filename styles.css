@@ -6,6 +6,7 @@ body{
 }
 
 .wrapper{
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -28,6 +29,7 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     letter-spacing: 4px;
+    text-align: center;
 }
 section{
     width: 100%;
