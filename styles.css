@@ -20,7 +20,7 @@ header{
     z-index: 12;
 }
 .logo{
-    width: 30%;
+    width: auto;
     text-align: center;
     line-height: 100px;
 }
