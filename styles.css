@@ -35,8 +35,6 @@ header{
 nav{
     float:middle;
     line-height: 100px;
-    position: relative;
-    text-align: center;
 }
 nav a{
     text-decoration: none;
