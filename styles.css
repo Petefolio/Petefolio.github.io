@@ -78,3 +78,7 @@ section.text-area p{
     padding: 0;
     text-align: center;
 }
+
+section.text-area th{
+    font-size: 3em;
+}
