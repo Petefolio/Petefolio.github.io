@@ -89,6 +89,5 @@ section.text-area th{
 .credittable {
     width: 50%;
     background-color: green;
-    float: left;
-    min-height: 250px;
+    float:left;
 }
