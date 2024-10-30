@@ -21,8 +21,7 @@ header{
 }
 .logo{
     width: 30%;
-    float:left;
-    text-align: left;
+    text-align: center;
     line-height: 100px;
 }
 .logo a{
