@@ -82,3 +82,11 @@ section.text-area p{
 section.text-area th{
     font-size: 3em;
 }
+
+.credits1 {
+    float: left;
+}
+
+.credits2 {
+    float: right;
+}
