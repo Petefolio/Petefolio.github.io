@@ -29,14 +29,15 @@
 
         <section class="text-area">
                <div class = "contact-form">
-                    <form action ="" class="contact-left">
+                    <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
                         <div class ="contact-left-title">
                             <h2>Get in touch</h2>
                             <hr>
                         </div>
+                        <input type="hidden" name="access_key" value="4c1415f1-43f6-40e5-85fa-3f47187877d8">
                         <input type="text" name="name" placeholder="Your Name" class = "contact-inputs" required>
                         <input type="email" name="email" placeholder="Your Email" class = "contact-inputs" required>
-                        <textarea name="message" placeholder="Your Message" class = "contact-inputs" required></textarea>
+                        <textarea name="message" placeholder="Your Message" class = "message-inputs" required></textarea>
                         <button type="submit">Submit </button>
                     </form>
                </div>
