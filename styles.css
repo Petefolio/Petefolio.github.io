@@ -86,7 +86,8 @@ section.text-area th{
 .credits {
     border-color: aqua;
     margin: 100px auto;
-    border-radius: 3px;
+    border-width: 3px;
+    border-style: solid;
 }
 .credit-table {
     width: 50%;
