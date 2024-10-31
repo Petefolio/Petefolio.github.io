@@ -84,12 +84,11 @@ section.text-area th{
 }
 
 .credits {
-    background-color: pink;
+    border-color: aqua;
     margin: 100px auto;
 }
 .credit-table {
     width: 50%;
     float: left;
     min-height: 250px;
-    background-color: aquamarine;
 }
