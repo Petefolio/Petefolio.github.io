@@ -89,6 +89,7 @@ section.text-area th{
 }
 .credit-table {
     width: 50%;
+    float: left;
     min-height: 250px;
     background-color: aquamarine;
 }
