@@ -171,3 +171,9 @@ section.text-area th{
     border-style: solid;
     border-color: rgb(8, 1, 34);
 }
+
+.contact-left-title {
+    max-width: 400px;
+    text-align: center;
+    
+}
