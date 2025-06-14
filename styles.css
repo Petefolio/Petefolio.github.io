@@ -85,6 +85,13 @@ section.text-area th{
     font-size: 1.5em;
 }
 
+audio {
+       width:100% !important;
+       min-height: 30px;
+       display:block;
+}
+
+
 .credits {
     display:flex;
     justify-content: space-between;
